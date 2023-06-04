@@ -31,6 +31,8 @@ Setelah menginstal Laravel menggunakan command prompt, Anda dapat mengkonfiguras
 
 Dengan mengikuti langkah-langkah ini, Anda dapat mengkonfigurasi database untuk proyek Laravel Anda dan menjalankan migrasi database untuk membuat tabel dan kolom yang diperlukan.
 
+Dan file saya ada di bagian master :)
+
 
 
 
